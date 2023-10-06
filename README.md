@@ -33,15 +33,12 @@ git clone <urlProjeto>
 
 # 2. Instale as dependências
 
-npm install
+npm install express nodemon
 
 # 3. Execute o backend
 
-npm run backend
-
-# 4. Execute o Frontend
-
 npm run dev
+
 ```
 
 ## :sassy_man: Endpoints
@@ -52,7 +49,9 @@ npm run dev
 - DELETE /alunos/:id - Exclui um aluno da lista
 - PUT /alunos/:id - Atualiza informações de um aluno
 - PATCH /alunos/:id/idade - Atualiza um elemento de um aluno
-- 
+
+<img src="https://raw.githubusercontent.com/brunagiammelaro/cadastro-de-alunos/main/cadastro-alunos.png" width="600px" align="center" >
+
 ## :technologist: Contribuidores
 
 <table>
