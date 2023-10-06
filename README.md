@@ -52,6 +52,8 @@ npm run dev
 - DELETE /alunos/:id - Exclui um aluno da lista
 - PUT /alunos/:id - Atualiza informações de um aluno
 - PATCH /alunos/:id/idade - Atualiza um elemento de um aluno
+- 
+## :technologist: Contribuidores
 
 <table>
   <tr>
